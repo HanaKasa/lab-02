@@ -2,12 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Hana Kasahun-Melke>`
+- **CCID:** `<kasahunm>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter
+- https://developer.android.com/reference/android/view/View.OnClickListener
+- https://stackoverflow.com/questions/60808899/setvisibility-function-in-android-studio-studio-java-parameters
+- https://stackoverflow.com/questions/25803727/android-setonclicklistener-method-how-does-it-work 
 
 ## Verbal Collaboration
 
